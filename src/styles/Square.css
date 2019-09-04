@@ -1,0 +1,11 @@
+.square {
+    height: 40px;
+    width: 40px;
+    float: left;
+    border: 1px black solid;
+}
+
+.owner {
+    padding-left: 14px;
+    padding-top: 9px;
+}
